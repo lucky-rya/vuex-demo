@@ -6,6 +6,7 @@
 cz-conventional-changelog
 以上只是提示类型但是没有图标
 继续测试
+use 插件
 :bug: fix a bug writtten by pig teammate
 ## Project setup
 ```
