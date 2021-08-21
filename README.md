@@ -2,6 +2,7 @@
 ## 
 这是一个vuex的练习项目
 练习使用图标提交
+添加类型
 ## Project setup
 ```
 npm install
