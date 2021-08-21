@@ -1,11 +1,11 @@
 # vuex-demo
 ## 
 这是一个vuex的练习项目
+练习使用图标提交
 ## Project setup
 ```
 npm install
 ```
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
