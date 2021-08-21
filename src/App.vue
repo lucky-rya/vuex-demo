@@ -1,6 +1,6 @@
 <template>
  <div>
-   hello vue hello vuex
+   hello vue 
  </div>
 </template>
 
