@@ -1,5 +1,6 @@
 # vuex-demo
-
+## 
+这是一个vuex的练习项目
 ## Project setup
 ```
 npm install
