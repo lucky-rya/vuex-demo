@@ -4,6 +4,7 @@
 练习使用图标提交
 添加类型
 cz-conventional-changelog
+以上只是提示类型但是没有图标
 ## Project setup
 ```
 npm install
