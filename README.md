@@ -7,7 +7,6 @@ cz-conventional-changelog
 
 use 插件
 :bug: fix a bug writtten by pig teammate
-lalala
 ## Project setup
 ```
 npm install
